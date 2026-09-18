@@ -112,7 +112,7 @@ While the current version is robust and complete for in-memory execution, planne
 ---
 
 ## 📸 Screenshots & Documentation
-Comprehensive, high-resolution screenshots of the terminal interface (Main Menu, Movie Catalogue, Visual Seat Map, Snack Bar, Detailed Invoice, and Admin Analytics) along with UML and Architecture diagrams are available in the included **Project Report (`.docx`)** file.
+Comprehensive, high-resolution screenshots of the terminal interface (Main Menu, Movie Catalogue, Visual Seat Map, Snack Bar, Detailed Invoice, and Admin Analytics) along with UML and Architecture diagrams are available in the included **Project Report (`.pdf`)** file.
 
 <br />
 <div align="center">
